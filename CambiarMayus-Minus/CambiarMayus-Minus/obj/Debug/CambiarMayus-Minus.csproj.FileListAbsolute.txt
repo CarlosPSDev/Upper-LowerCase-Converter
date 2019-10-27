@@ -1,0 +1,10 @@
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\bin\Debug\CambiarMayus-Minus.exe.config
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\bin\Debug\CambiarMayus-Minus.exe
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\bin\Debug\CambiarMayus-Minus.pdb
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus-Minus.csprojAssemblyReference.cache
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus_Minus.Form1.resources
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus_Minus.Properties.Resources.resources
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus-Minus.csproj.GenerateResource.cache
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus-Minus.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus-Minus.exe
+C:\Users\Carlos\ProyectosVisualC\repos\CambiarMayus-Minus\CambiarMayus-Minus\obj\Debug\CambiarMayus-Minus.pdb
